@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Oreas-To-Do-List-Activity-4/static/css/main.2e1c2254.css",
+    "main.js": "/Oreas-To-Do-List-Activity-4/static/js/main.a74b5303.js",
+    "static/js/787.379a764d.chunk.js": "/Oreas-To-Do-List-Activity-4/static/js/787.379a764d.chunk.js",
+    "index.html": "/Oreas-To-Do-List-Activity-4/index.html",
+    "main.2e1c2254.css.map": "/Oreas-To-Do-List-Activity-4/static/css/main.2e1c2254.css.map",
+    "main.a74b5303.js.map": "/Oreas-To-Do-List-Activity-4/static/js/main.a74b5303.js.map",
+    "787.379a764d.chunk.js.map": "/Oreas-To-Do-List-Activity-4/static/js/787.379a764d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e1c2254.css",
+    "static/js/main.a74b5303.js"
+  ]
+}
